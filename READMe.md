@@ -2,6 +2,8 @@
 ## Overview
 This Ansible project automates the installation and configuration of Nginx on a target server. The primary objectives are to ensure Nginx is installed, verify that it is running, and copy a specified Nginx configuration file to the appropriate directory.
 
+Please Refer to Project Documentation on [Medium](https://medium.com/@ntando.mv15/configuartion-management-with-ansible-57d07e1a31aa)
+
 ## Project Goals
 - Install Nginx: Automate the installation of the Nginx web server.
 - Verify Nginx Status: Check if Nginx is running after installation.
